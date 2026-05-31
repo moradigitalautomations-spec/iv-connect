@@ -1,5 +1,5 @@
 # IV Connect — Setup Guide
-## CCSR Manakula Vinayagar Engineering College · CSE Department
+## Sri Manakula Vinayagar Engineering College · CSE Department
 
 ---
 
